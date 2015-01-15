@@ -1,0 +1,30 @@
+Development Environments
+
+Borland C++ Builder  - is an advanced software development system from Borland. 
+It brings together a powerful Integrated Development Environment, 
+the component-oriented philosophy of Borland's award-winning Delphi language, 
+and the industry standard object-orientation of C++. 
+If you are a user of C++ Builder, you know what I mean - and here you will find many 
+hints, tips, methods and philosophies that can help you in your development efforts.
+
+Dev-C++ - is a full-featured Integrated Development Environment (IDE) for the C/C++ programming language.
+It uses Mingw port of GCC (GNU Compiler Collection) as it's compiler.
+Dev-C++ can also be used in combination with Cygwin or any other GCC based compiler.
+
+VisualWX - aims to be the ultimate RAD tool, designed for c++,python,perl,ruby lua and wxWidgets.
+The program already has a lot of features, among the most important ones:
+·  wxWidgets designer 
+·  Visualwx generates code for c++, python, perl,ruby,lua.
+
+Philasmicos Entwickler Studio -  is a commercial cross-platform IDE for C/C++ and wxWidgets development projects.
+It supports multiple compilers and can be easily extended via plugins.
+The IDE is being developed for Windows and Linux.
+
+Zeus IDE -  is a fast and lean, fully scriptable, keyboard centric editor packed full 
+of programmer specific features making it one of the best programmer's editor available.
+Zeus is an IDE designed for software development on the Windows platform and includes 
+support for the D programming language.
+
+
+
+
